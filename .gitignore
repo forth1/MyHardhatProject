@@ -18,3 +18,9 @@
 
 # Hardhat coverage reports
 /coverage
+
+# Hardhat deploy — contract deployments (local/testnet/mainnet)
+deployments/
+
+# Environment variables (never upload)
+.env
